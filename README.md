@@ -9,18 +9,18 @@ Finding correlations between different parameters, deriving insights based on th
 
 ### 🔬 Skills & Expertise
 
-### Python
+#### Python
 - Data analysis with Pandas and NumPy
 - Data visualization with Matplotlib and Seaborn
 - Working in Jupyter Notebook
 
-### SQL
+#### SQL
 - Writing queries in PostgreSQL  
 
-### Advanced Excel
+#### Advanced Excel
 - Advanced formulas and functions
 - Pivot Tables and Pivot Charts
 - Data visualization
 
-### Tableau
+#### Tableau
 - Data visualization and dashboard creation
